@@ -1,0 +1,4 @@
+canvas {
+    border: 1px solid black;
+    background: -webkit-linear-gradient(top, white, White 30%, #555 30%, #CCC 100%)
+}
